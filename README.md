@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Yanxxx7979/Yanxxx7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- ✨This is Xin Yan!
-**Here are some ideas to get you started:
+✨This is Xin Yan!
 
-- 🔭 I’m currently a junior in NCU
-- 🔭 I'm major in Mechanical Engineering
-- 🌱 I'm from Taiwan Kaoshiung
+🔭 I’m currently a junior in NCU
+🔭 I'm major in Mechanical Engineering
+🌱 I'm from Taiwan Kaoshiung
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
