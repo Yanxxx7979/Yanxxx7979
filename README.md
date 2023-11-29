@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨This is Xin Yan!
+✨This is Yan!
 
 -🔭 I’m currently a junior in NCU
 
