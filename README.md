@@ -1,28 +1,25 @@
-# Hi there! 👋 I'm Yan - Welcome to my GitHub! ✨
+<h1 align="center">Hi 👋, I'm XinYan</h1>
+<h3 align="center">A junior grade student at Taiwan.</h3>
 
-I'm a junior Mechanical Engineering student at National Central University (NCU), Taiwan 🌏.
+- 🔭 I’m currently study at **NCU**
 
+- 🌱 I’m currently learning **Optics visualization**
 
-## Skills
-- 💻 Programming: Python, C++, MATLAB
-- 🛠 Tools: SolidWorks, AutoCAD
-- 📊 Data: Optics Visualization
+- 👯 I’m major in **Mechanical Engineering**
 
-## GitHub Stats
-![Yan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yan-profile&show_icons=true&theme=dracula)
+- 💬 Ask me about **Mechanics stuff**
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-profile&layout=compact&theme=dracula)
+- 📫 How to reach me **i.x.yan0097@gmail.com**
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yan-profile-blue)](https://www.linkedin.com/in/yan-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yan_profile-blue)](https://twitter.com/yan_profile)
+- ⚡ Fun fact **Am I funny? Maybe Yes.**
 
-## Projects
-- 🚀 [Project 1](#): Short description and link.
-- 🌐 [Project 2](#): Short description and link.
-- 🔧 [Project 3](#): Short description and link.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/xinyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xinyan" height="30" width="40" /></a>
+</p>
 
-![image](https://github.com/Yanxxx7979/Yanxxx7979/blob/main/S__9412646.jpg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 
