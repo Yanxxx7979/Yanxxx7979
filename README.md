@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study at **NCU**
 
-- 🌱 I’m currently learning **Optics visualization**
+- 🌱 I’m currently learning **Optics visualization** / **AOI**
 
 - 👯 I’m major in **Mechanical Engineering**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **i.x.yan0097@gmail.com**
 
-- ⚡ Fun fact **Am I funny? Maybe Yes.**
+- ⚡ Fun fact **大三生活like求生不得求死不能，蠻牛續命甜點養生**
 
 
 
