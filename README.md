@@ -2,7 +2,7 @@
 
 ✨This is Yan!
 
--🔭 I’m currently a junior in NCU
+-🔭 I’m currently a junior grade student in NCU
 
 -🔭 I'm major in Mechanical Engineering
 
