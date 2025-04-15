@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm XinYan</h1>
-<h3 align="center">A junior grade student at Taiwan.</h3>
+<h3 align="center">The one at Taiwan.</h3>
 
 - 🔭 I’m currently study at **NCU**
 
@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **Mechanics stuff**
 
-- 📫 How to reach me **i.x.yan0097@gmail.com**
-
-- ⚡ Fun fact **大三生活like求生不得求死不能，蠻牛續命甜點養生**
 
 
 
